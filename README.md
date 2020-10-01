@@ -1,6 +1,6 @@
 # Procesamiento-de-Imagenes
 
-(EN/SP) 
+(EN/ES) 
 
 Scripts and Notebooks used for assignments and class activities of the Image Processing and Computer Vision 2020-30 course at PUJ-Bogota
 
